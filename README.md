@@ -7,4 +7,5 @@ MATH 818 Github Repository
 1. Login to github, and clone this repository.
 1. Create a folder with your KUPID ID (this makes id'ing your work easy) -- this folder is "your folder".
 1. Copy template latex files to your folder.
-1. Start working on that folder.
+1. Start working on that folder - Update the name on the tex and compile.
+1. Push your folder. It should contain compiled PDF and updated tex.
